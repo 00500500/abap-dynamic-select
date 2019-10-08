@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Dynamic Select</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>ADD_WHERE_COND</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Add a where cond to the select statement</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>ADD_WHERE_COND_KEY_TO_KEY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Add a where cond to the select statement | key 2 key mapping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>CLEAR_WHERE_COND</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Clear where cond</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>GET_INSTANCE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get instance</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>IS_RANGE_TABLE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check if table is a range table</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>MAP_FIELDS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Field Mapping</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>SELECT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SELECT all fields from table with where cond</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>SELECT_FOR_ALL_ENTIRES_KEYTAB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SELECT for all entries | all fields | with where cond</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_DYNAMIC_SELECT</CLSNAME>
+     <CMPNAME>SELECT_SINGLE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>SELECT SINGLE all fields with where cond</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
