@@ -1,7 +1,7 @@
 # dynamic-select
 ABAP Class for dynamic selects
 
-First you have to instantiate an object of class  `zcl_ca_dynamic_select`.
+First you have to instantiate an object of class  `zcl_dynamic_select`.
 
 Now you can add multiple where conditions to your select-object. For that you can use `add_where_cond` or `add_where_cond_key_to_key`.
 
